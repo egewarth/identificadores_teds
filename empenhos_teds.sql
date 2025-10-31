@@ -106,10 +106,23 @@ empenhos_orgaos_metodo_4 as (
 ),
 
 empenhos_restantes_metodo_4 as(
+select * from empenhos_orgaos_metodo_4 where num_transf is null AND nc is null
+),
+
+empenhos_teds_invalidos as(
+select
+      emissao_mes,emissao_dia,ne_ccor,ne_num_processo,ne_info_complementar,ne_ccor_descricao,doc_observacao,natureza_despesa,natureza_despesa_descricao,ne_ccor_favorecido,ne_ccor_favorecido_descricao,ne_ccor_ano_emissao,ptres,fonte_recursos_detalhada,fonte_recursos_detalhada_descricao,despesas_empenhadas,despesas_liquidadas,despesas_pagas,restos_a_pagar_inscritos,restos_a_pagar_pagos,dt_ingest,ne,orgao_id,
+      regexp_substr(ne_ccor_descricao, '((?<![0-9])[0-9]{0,3}NC[0-9]+|[0-9]{5,}NC[0-9]+|[0-9]{4}NC(?![0-9]))') as nc,
+      null as num_transf,
+      'ted ou nc invalido' as metodo
+      from empenhos_restantes_metodo_4
+),
+
+empenhos_restantes_teds_invalidos as(
 select
 emissao_mes,emissao_dia,ne_ccor,ne_num_processo,ne_info_complementar,ne_ccor_descricao,doc_observacao,natureza_despesa,natureza_despesa_descricao,ne_ccor_favorecido,ne_ccor_favorecido_descricao,ne_ccor_ano_emissao,ptres,fonte_recursos_detalhada,fonte_recursos_detalhada_descricao,despesas_empenhadas,despesas_liquidadas,despesas_pagas,restos_a_pagar_inscritos,restos_a_pagar_pagos,dt_ingest,ne,orgao_id,nc,num_transf,
 'vinculo nao encontrado' as metodo
-from empenhos_orgaos_metodo_4 where num_transf is null AND nc is null
+from empenhos_teds_invalidos where num_transf is null AND nc is null
 ),
 
 empenhos_teds as(
@@ -123,20 +136,18 @@ select * from empenhos_orgaos_metodo_3 where num_transf is not null OR nc is not
 UNION ALL
 select * from empenhos_orgaos_metodo_4 where num_transf is not null OR nc is not null
 UNION ALL
-select * from empenhos_restantes_metodo_4
+select * from empenhos_teds_invalidos where num_transf is not null OR nc is not null
+UNION ALL
+select * from empenhos_restantes_teds_invalidos
 )
 
 select
-  *
+  orgao_id, ne_ccor_descricao, doc_observacao, fonte_recursos_detalhada_descricao, nc, num_transf, metodo
 from empenhos_teds
 where
-metodo = 'vinculo nao encontrado'
+(metodo = 'ted ou nc invalido'
+OR metodo = 'vinculo nao encontrado')
 AND
-((doc_observacao like '%TED%'
+(doc_observacao like '%TED%'
 AND
 doc_observacao not like '%METEDOLOGIAS%')
-OR
-(ne_ccor_descricao like '%TED%'
-AND
-ne_ccor_descricao not like '%METEDOLOGIAS%')
-)
