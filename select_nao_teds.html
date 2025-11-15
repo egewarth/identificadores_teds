@@ -4,6 +4,8 @@ where
     metodo = 'ted ou nc invalido'
     OR metodo = 'vinculo nao encontrado'
   )
+  -- indica que o favorecido da nota de empenho é o próprio emissor
+  AND (left(ne_ccor,6) != ne_ccor_favorecido)
   AND NOT(
     (doc_observacao like '%TED%'
     AND
