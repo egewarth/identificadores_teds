@@ -32,7 +32,7 @@ empenhos_orgaos_metodo_1 as (
       replace(
         (regexp_match(
           ne_ccor_descricao,
-          '(?:TED|(?:NUM[[:space:].-]*)?(?:TRANSFERENCIA|TRANSF(?:\.|\:)|TRANF(?:\.|\:))|N[ºo]|NUMERO|CRICAO)[[:space:].:-]*([0-9]{6}|1[A-Z0-9]{5}|[0-9]{3}\.[0-9]{3})',
+          '(?:TED|NUM[[:space:].-]]*TRANSFERENCIA|TRANSFERENCIA|TRANSF[.:]?|TRANF[.:]?|N[ºo]|NUMERO|CRICAO)[[:space:].:-]*([0-9]{6}|1[A-Z0-9]{5}|[0-9]{3}\.[0-9]{3})',
           'i'
         ))[1],
           '.',
@@ -52,9 +52,9 @@ empenhos_orgaos_metodo_2 as (
       emissao_mes,emissao_dia,ne_ccor,ne_num_processo,ne_info_complementar,ne_ccor_descricao,doc_observacao,natureza_despesa,natureza_despesa_descricao,ne_ccor_favorecido,ne_ccor_favorecido_descricao,ne_ccor_ano_emissao,ptres,fonte_recursos_detalhada,fonte_recursos_detalhada_descricao,despesas_empenhadas,despesas_liquidadas,despesas_pagas,restos_a_pagar_inscritos,restos_a_pagar_pagos,dt_ingest,ne,orgao_id,nc,
       replace(
           (regexp_match(
-            ne_ccor_descricao,
-            '.*(?:NT|NOTA[[:space:]]+DE[[:space:]]+TRANSFERENCIA)[:.[:space:]]*((?=[A-Za-z0-9]*[0-9])[A-Za-z0-9]{6})',
-            'i'
+              ne_ccor_descricao,
+              '.*(?:\bNT\b|NOTA[[:space:]]+DE[[:space:]]+TRANSFERENCIA)[:.[:space:]]*((?=[A-Za-z0-9]*[0-9])[A-Za-z0-9]{6,})',
+              'i'
           ))[1],
           '.',
           ''
@@ -144,10 +144,10 @@ select * from empenhos_restantes_teds_invalidos
 select
   orgao_id, ne_ccor_descricao, doc_observacao, fonte_recursos_detalhada_descricao, nc, num_transf, metodo
 from empenhos_teds
-where
-(metodo = 'ted ou nc invalido'
-OR metodo = 'vinculo nao encontrado')
-AND
-(doc_observacao like '%TED%'
-AND
-doc_observacao not like '%METEDOLOGIAS%')
+-- where
+-- (metodo = 'ted ou nc invalido'
+-- OR metodo = 'vinculo nao encontrado')
+-- AND
+-- (doc_observacao like '%TED%'
+-- AND
+-- doc_observacao not like '%METEDOLOGIAS%')
