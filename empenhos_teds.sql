@@ -31,7 +31,7 @@ empenhos_orgaos_metodo_1 as (
       replace(
         (regexp_match(
           ne_ccor_descricao,
-          '(FERENCIA|TED|CRICAO|TRANSF.|TRANF.|TRANSFERENCIA )(\s|^|-|)([0-9]{6}|1\w{5}|[0-9]{3}\.[0-9]{3})(\s|$|\.|,|-|\/)',
+          '(FERENCIA|TED|CRICAO|TRANSF.|TRANF.|TRANSFERENCIA |TRANSFERENCIA:)(\s|^|-|)([0-9]{6}|1\w{5}|[0-9]{3}\.[0-9]{3})(\s|$|\.|,|-|\/)',
           'i'
         ))[3],
           '.',
@@ -73,7 +73,7 @@ empenhos_orgaos_metodo_3 as (
       replace(
           (regexp_match(
             ne_ccor_descricao,
-            '.*(?:(?:TED(?:[[:space:]]*[-.N∞øº°∅()]*))[[:space:]]*|(?:SIAFI[[:space:]]+N∫))[[:space:].-]*(?<![0-9])([0-9]{6})(?![0-9])',
+            '.*(?:(?:TED(?:[[:space:]]*[-.N∞øº°∅()]*))[[:space:]]*|(?:SIAFI[[:space:]]+N∫))[[:space:].-]*(?<![0-9])(([0-9]{6})|(1[A-Za-z0-9]{5}))(?![0-9])',
             'i'
           ))[1],
           '.',
