@@ -99,8 +99,12 @@ The hybrid model significantly reduced false negatives and successfully mapped r
 ## Project Structure
 
   * `main.py`: Core logic containing the feedback loop, database connection, and LLM interaction.
-  * `resultados_llm.json`: Output file (generated) containing processed records and learnt regexes.
-  * `known_regexes.json`: (Optional) Persistent storage for learned patterns.
+  * `empenhos_teds.sql`: SQL query implementing multiple sequential extraction methods for TED identifiers from SIAFI database.
+  * `select_nao_teds.sql`: SQL filter to identify false positives in TED classification.
+  * `select_numero_inscricao_infor_complementar.sql`: SQL query to extract transfer identifiers from alternative field patterns.
+  * `resultados_llm_sample.json`: Sample of LLM-generated results (50 records from 319,680 total records).
+  * `result_analysis.ipynb`: Jupyter notebook with exploratory analysis and visualizations of extraction results.
+  * `Cycle comparison tables.pdf`: Comparative analysis tables between regex and hybrid extraction cycles.
 
 ## Contribution
 

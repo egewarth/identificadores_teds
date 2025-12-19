@@ -1,0 +1,2073 @@
+{
+  "resultados": [
+    {
+      "sequencial": 1,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000614",
+        "natureza_despesa": "33903007",
+        "doc_observacao": "AQUISICAO DE AGUA MINERAL PARA AS RESIDENCIAS ESTUDANTIS DA UFRB POR MEIO DA PRO-REITORIA DE POLITICAS AFIRMATIVAS E ASSUNTOS ESTUDANTIS (PROPAAE), DISPENSA: 90008/2025, PROCESSO: 23007.012626/2025-09, SOLICITANTE: CMP/PROAD/UFRB",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "14/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "22.500,00",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "AQUISICAO DE AGUA MINERAL PARA AS RESIDENCIAS ESTUDANTIS DA UFRB POR MEIO DA PRO-REITORIA DE POLITICAS AFIRMATIVAS E ASSUNTOS ESTUDANTIS (PROPAAE), DISPENSA: 90008/2025, PROCESSO: 23007.012626/2025-09, SOLICITANTE: CMP/PROAD/UFRB",
+        "doc_observacao": "AQUISICAO DE AGUA MINERAL PARA AS RESIDENCIAS ESTUDANTIS DA UFRB POR MEIO DA PRO-REITORIA DE POLITICAS AFIRMATIVAS E ASSUNTOS ESTUDANTIS (PROPAAE), DISPENSA: 90008/2025, PROCESSO: 23007.012626/2025-09, SOLICITANTE: CMP/PROAD/UFRB",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.012626/2025-09",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.012626/2025-09",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 2,
+      "unique_key": {
+        "ne_ccor": "158092263512024NE000193",
+        "natureza_despesa": "33901801",
+        "doc_observacao": "PAGAMENTO DE AUXILIO FINANCEIRO EMERGENCIAL  PARA ESTUDANTES DE GRADUACAO DA UFRB - JULHO/2025. PROC. 23007.011984/2025-77",
+        "ne_ccor_ano_emissao": "2024",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "NaN",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "PARA ATENDER DESPESA COM PAGAMENTO DE AUXILIO FINANCEIRO EMERGENCIAL A DISCENTE, ACAO DE ASSISTENCIA ESTUDANTIL ORIUNDA DE RECURSO DO PNAES, PROCESSO: 23007.004965/2024-55. SOLICITANTE: PROPAAE",
+        "doc_observacao": "PAGAMENTO DE AUXILIO FINANCEIRO EMERGENCIAL  PARA ESTUDANTES DE GRADUACAO DA UFRB - JULHO/2025. PROC. 23007.011984/2025-77",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.004965/2024-55",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC. 23007.011984/2025-77",
+          "regex_usado": "(?:PROCESSO\\s*SEI\\s*[:]?\\s*|PROC\\.?\\s*)[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 3,
+      "unique_key": {
+        "ne_ccor": "158092263512024NE000971",
+        "natureza_despesa": "33903036",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) : 14910, 15332, CONTRATO N∫: 2024NE000971  -  CIRURGICA BIOMEDICA LTDA, PROC.(S): 23007.023032/2024-59, DO(S) FORNECIMENTO(S) MES(ES): 03/2025, 05/2025.",
+        "ne_ccor_ano_emissao": "2024",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "NaN",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM AQUISICAO DE EQUIPAMENTOS DE PROTECAO INDIVIDUAL, MATERIAL HOSPITALAR E MATERIAIS LABORATORIAIS DE CONSUMO PARA O USO NOS ESTAGIOS, INTERNATOS E LABORATORIOS DE ENSINO E PESQUISA DO CENTRO DE CIENCIAS DA SAUDE CCS. PREGAO 49/2023. PROCESSO: 23007.023032/2024-59.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) : 14910, 15332, CONTRATO N∫: 2024NE000971  -  CIRURGICA BIOMEDICA LTDA, PROC.(S): 23007.023032/2024-59, DO(S) FORNECIMENTO(S) MES(ES): 03/2025, 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.023032/2024-59",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S): 23007.023032/2024-59",
+          "regex_usado": "PROC\\.\\(S\\):\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 4,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000103",
+        "natureza_despesa": "31901101",
+        "doc_observacao": "FOLHA DE PAGAMENTO DO MES DE JUNHO DE 2025 - RETENCAO INSS, DARF EXTRA SICALC WEB",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "281,19"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM FOLHA DE PESSOAL UFRB EXERCICIO DE 2025",
+        "doc_observacao": "FOLHA DE PAGAMENTO DO MES DE JUNHO DE 2025 - RETENCAO INSS, DARF EXTRA SICALC WEB",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": []
+    },
+    {
+      "sequencial": 5,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000103",
+        "natureza_despesa": "31901101",
+        "doc_observacao": "FOLHA DE PAGAMENTO DO MES DE MAIO DE 2025 - IRRF - IMPOSTO DE RENDA RETIDO NA FONTE, DARF EXTRA SICALWEB.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "76.023,11"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM FOLHA DE PESSOAL UFRB EXERCICIO DE 2025",
+        "doc_observacao": "FOLHA DE PAGAMENTO DO MES DE MAIO DE 2025 - IRRF - IMPOSTO DE RENDA RETIDO NA FONTE, DARF EXTRA SICALWEB.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": []
+    },
+    {
+      "sequencial": 6,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000123",
+        "natureza_despesa": "31910415",
+        "doc_observacao": "FOLHA DE PAGAMENTO DE JUNHO DE 2025 - ENCARGO PATRONAL - INSS, DARF EXTRA SICALWEB.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "11.058,93"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM FOLHA DE PESSOAL UFRB EXERCICIO DE 2025",
+        "doc_observacao": "FOLHA DE PAGAMENTO DE JUNHO DE 2025 - ENCARGO PATRONAL - INSS, DARF EXTRA SICALWEB.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": []
+    },
+    {
+      "sequencial": 7,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000218",
+        "natureza_despesa": "33903958",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 1600211387961, CONTRATO N∫: 00007/2021  - 76.535.764/0001-43 - OI S.A. - EM RECUPERACAO JUDICIAL, PROC.(S) NUM.(S): 23007.014148/2025-43, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 06/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "14.464,43"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESAS COM PAGAMENTO COM SERVICO SERVICOS DE TELEFONIA FIXO COMUTADO (STFC), PARA ATENDER AS DEMANDAS DA UFRB, EM TODOS OS SEUS CAMPI, EM RECUPERACAO JUDICIAL, CONTRATO 07/2021, PROCESSO: 23007.002598/2025-38, SOLICIGANTE: CCONT/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 1600211387961, CONTRATO N∫: 00007/2021  - 76.535.764/0001-43 - OI S.A. - EM RECUPERACAO JUDICIAL, PROC.(S) NUM.(S): 23007.014148/2025-43, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 06/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.002598/2025-38",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.014148/2025-43",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.014148",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 8,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000244",
+        "natureza_despesa": "33903978",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2025004434, CONTRATO N∫: 00002/2022  - 01.568.077/0011-05 - B-GREEN GESTAO AMBIENTAL S.A., PROC.(S) NUM.(S): 23007.012888/2025-16, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.526,61"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESAS COM PAGAMENTO  RELATIVOS AO FATURAMENTO DA EMPRESA B-GREEN GESTAO AMBIENTAL S.A., ATRELADO AO CONTRATO N∫ 02/2022, REFERENTE AO MES DE JANEIRO DE 2025, PROCESSO: 23007.003115/2025-47, SOLICITANTE: CCONT/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2025004434, CONTRATO N∫: 00002/2022  - 01.568.077/0011-05 - B-GREEN GESTAO AMBIENTAL S.A., PROC.(S) NUM.(S): 23007.012888/2025-16, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "N∫ 02",
+          "regex_usado": "N[°º∫]\\s*\\d+",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.003115/2025-47",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012888/2025-16",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012888",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 9,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000275",
+        "natureza_despesa": "33903701",
+        "doc_observacao": "ISS CONF. LC 116/2003 - INSTR.(S) DE COBRANCA(S) : 41395, CONTRATO: 00010/2022   - R.P.L ENG. E SERVLTDA EM RECUPERACAO JUDICIAL, PROC.(S) NUM.(S): 23007.008519/2025-27, DO(S) SERVICO(S)  MES(ES): 03/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "683,22"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDERELATIVOS AO FATURAMENTO DA EMPRESA R.P.L. ENGENHARIA ESERVICOS LTDA., ATRELADO AO CONTRATO N∫ 10/2022, RELATIVOS A COMPETENCIA 01/2025, PROCESSO: 23007.003319/2025-68, SOLICITANTE: CCONT/UFRB.",
+        "doc_observacao": "ISS CONF. LC 116/2003 - INSTR.(S) DE COBRANCA(S) : 41395, CONTRATO: 00010/2022   - R.P.L ENG. E SERVLTDA EM RECUPERACAO JUDICIAL, PROC.(S) NUM.(S): 23007.008519/2025-27, DO(S) SERVICO(S)  MES(ES): 03/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "N∫ 10",
+          "regex_usado": "N[°º∫]\\s*\\d+",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.003319/2025-68",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.008519/2025-27",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.008519",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 10,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000276",
+        "natureza_despesa": "33903943",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "206.613,66"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A PRESTACAO DE SERVICO DE FORNECIMENTO DE ENERGIA ELETRICA PARA ATENDER AS UNIDADES DA INSTITUICAO CONFORME CONTRATO N.∫ 03/2015. PROCESSO N.∫ 23007.002692/2025-22.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.002692/2025-22",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012403/2025-16",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012403",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 11,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000329",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 20251299, CONTRATO N∫: 00030/2024  - 10.369.790/0001-30 - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012760/2025-77, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "35.320,35"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A PRESTACAO DE SERVICO DE VIGILANCIA, ARMADA E DESARMADA, EM REGIME DE DEDICACAO EXCLUSIVA NAS DEPENDENCIAS DO CAMPUS DE AMARGOSA (CFP) CONFORME CONTRATO N.∫ 30/2024. PROCESSO N.∫ 23007.00003934/2025-50. SOLICITANTE: PROAD",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 20251299, CONTRATO N∫: 00030/2024  - 10.369.790/0001-30 - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012760/2025-77, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012760/2025-77",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012760",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 12,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000330",
+        "natureza_despesa": "33903036",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 0013, CONTRATO N∫: 2025NE000330  - 47.085.323/0001-99 - 47.085.323 AUDINEIA GONCALVES DA SILVA, PROC.(S) NUM.(S): 23007.003726/2025-40, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "2.499,30"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A AQUISICAO DE MATERIAIS HOSPITALAR, LABORATORIAL E QUIMICO PARA SUPRIR AS NECESSIDADES DO HOSPITAL UNIVERSITARIO DE MEDICINA VETERINARIA - HUMV/UFRB. MODALIDADE DE COMPRA: PREGAO ELETRONICO SRP N.∫ 52/2023. PROCESSO N.∫ 23007.00003726/2025-40. SOLICITANTE: HUMV",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 0013, CONTRATO N∫: 2025NE000330  - 47.085.323/0001-99 - 47.085.323 AUDINEIA GONCALVES DA SILVA, PROC.(S) NUM.(S): 23007.003726/2025-40, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 07/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.00003726/2025-40",
+          "regex_usado": "PROCESSO\\s+N\\.?∫\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.003726/2025-40",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.003726",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 13,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000333",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 20251301, 20251300, CONTRATO N∫: 00032/2024  - 10.369.790/0001-30 - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "63.228,30"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A PRESTACAO DE SERVICOS CONTINUADOS DE VIGILANCIA, ARMADA E DESARMADA, A PE E MOTORIZADA, COM COMUNICACAO ELETRONICA MOVEL, NOS CAMPI DA UFRB LOCALIZADOS EM AMARGOSA, CACHOEIRA, CRUZ DAS ALMAS, FEIRA DE SANTANA, SANTO AMARO, SANTO ANTONIO DE JESUS E SAO FELIX. CONFORME CONTRATO N.∫ 32/2024. PROCESSO: 23007.00005627/2025-26. SOLICITANTE: PROAD",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 20251301, 20251300, CONTRATO N∫: 00032/2024  - 10.369.790/0001-30 - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00005627/2025-26",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012737/2025-19",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012737",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 14,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000333",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "REPASSE SOLIC. CCONT  REF. GUIA DE DEPOSITO EM CONTA VINCULADA CONCERNENTE AO  INSTR.(S) DE COBRANCA(S) NUM.(S): 20251301, 20251300, CONTRATO N∫: 00032/2024  - 10.369.790/0001-30 - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "12.352,06"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A PRESTACAO DE SERVICOS CONTINUADOS DE VIGILANCIA, ARMADA E DESARMADA, A PE E MOTORIZADA, COM COMUNICACAO ELETRONICA MOVEL, NOS CAMPI DA UFRB LOCALIZADOS EM AMARGOSA, CACHOEIRA, CRUZ DAS ALMAS, FEIRA DE SANTANA, SANTO AMARO, SANTO ANTONIO DE JESUS E SAO FELIX. CONFORME CONTRATO N.∫ 32/2024. PROCESSO: 23007.00005627/2025-26. SOLICITANTE: PROAD",
+        "doc_observacao": "REPASSE SOLIC. CCONT  REF. GUIA DE DEPOSITO EM CONTA VINCULADA CONCERNENTE AO  INSTR.(S) DE COBRANCA(S) NUM.(S): 20251301, 20251300, CONTRATO N∫: 00032/2024  - 10.369.790/0001-30 - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00005627/2025-26",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012737/2025-19",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012737",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 15,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000333",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "RETENCAO DE ISS CONF. LC 116/2003 - INSTR.(S) DE COBRANCA(S) NUM.(S): 20251300, CONTRATO N∫: 00032/2024   - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19. REF. AO  MES 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "2.805,11"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A PRESTACAO DE SERVICOS CONTINUADOS DE VIGILANCIA, ARMADA E DESARMADA, A PE E MOTORIZADA, COM COMUNICACAO ELETRONICA MOVEL, NOS CAMPI DA UFRB LOCALIZADOS EM AMARGOSA, CACHOEIRA, CRUZ DAS ALMAS, FEIRA DE SANTANA, SANTO AMARO, SANTO ANTONIO DE JESUS E SAO FELIX. CONFORME CONTRATO N.∫ 32/2024. PROCESSO: 23007.00005627/2025-26. SOLICITANTE: PROAD",
+        "doc_observacao": "RETENCAO DE ISS CONF. LC 116/2003 - INSTR.(S) DE COBRANCA(S) NUM.(S): 20251300, CONTRATO N∫: 00032/2024   - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19. REF. AO  MES 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00005627/2025-26",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012737/2025-19",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012737",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 16,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000333",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "RETENCAO DE ISS CONF. LC 116/2003 - INSTR.(S) DE COBRANCA(S) NUM.(S): 20251301, CONTRATO N∫: 00032/2024   - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19. REF. AO  MES 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "2.264,00"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A PRESTACAO DE SERVICOS CONTINUADOS DE VIGILANCIA, ARMADA E DESARMADA, A PE E MOTORIZADA, COM COMUNICACAO ELETRONICA MOVEL, NOS CAMPI DA UFRB LOCALIZADOS EM AMARGOSA, CACHOEIRA, CRUZ DAS ALMAS, FEIRA DE SANTANA, SANTO AMARO, SANTO ANTONIO DE JESUS E SAO FELIX. CONFORME CONTRATO N.∫ 32/2024. PROCESSO: 23007.00005627/2025-26. SOLICITANTE: PROAD",
+        "doc_observacao": "RETENCAO DE ISS CONF. LC 116/2003 - INSTR.(S) DE COBRANCA(S) NUM.(S): 20251301, CONTRATO N∫: 00032/2024   - NAFSEG SERVICOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.012737/2025-19. REF. AO  MES 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00005627/2025-26",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012737/2025-19",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012737",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 17,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000335",
+        "natureza_despesa": "33903701",
+        "doc_observacao": "CANCELAMENTO AUTOMATICO PELO BACEN DA OB 158092 26351 2025OB001941  - MOTIVO : COD.DEV. 21 (DEVOLUCAO DE PAGAMENTOS EFETUADOS PELO TESOUR) E HISTORICO: ID VENCIDO.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "(26.237,84)"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "PAGAMENTO DO FATURAMENTO MENSAL DA EMPRESA HIGICLEAN TECNOLOGIA EM HIGIENIZACAO E CONSERVACAO LTDA, ATRELADO AO CONTRATO N∫ 15/2024 (CAMPUS CRUZ DAS ALMAS), COMPETENCIA 01/2025, PROCESSO: 23007.003271/2025-06, SOLICITANTE: CCONT/PROAD/UFRB.",
+        "doc_observacao": "CANCELAMENTO AUTOMATICO PELO BACEN DA OB 158092 26351 2025OB001941  - MOTIVO : COD.DEV. 21 (DEVOLUCAO DE PAGAMENTOS EFETUADOS PELO TESOUR) E HISTORICO: ID VENCIDO.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "N∫ 15",
+          "regex_usado": "N[°º∫]\\s*\\d+",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.003271/2025-06",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        }
+      ]
+    },
+    {
+      "sequencial": 18,
+      "unique_key": {
+        "ne_ccor": "364102362012024NE006729",
+        "natureza_despesa": "33901801",
+        "doc_observacao": "NAO SE APLICA",
+        "ne_ccor_ano_emissao": "2024",
+        "emissao_dia": "000/2025",
+        "emissao_mes": "000/2025",
+        "despesas_empenhadas": "NaN",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "MENSALIDADES DE BOLSISTAS NO PAIS  (TED. 942203) - CAPACITACAO E AGREGACAO DE RECURSOS HUMANOS PARA DESENVOLVIMENTO, EXECUCAO E APOIO AS OPERACOES DE SATELITES PELA COORDENACAO DE RASTREIO, CONTROLE E RECEPCAO DE SATELITES. TED 942203",
+        "doc_observacao": "NAO SE APLICA",
+        "fonte_recursos_detalhada_descricao": "TED ENTRE CNPQ - INPE - 942203"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "942203",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "TED",
+          "valor_extraido": "TED ENTRE CNPQ - INPE - 942203",
+          "regex_usado": "TED(?:\\s+[A-Z]+)*(?:\\s*-\\s*[A-Z]+)*(?:\\s*-\\s*\\d{3,6})",
+          "origem_coluna": "fonte_recursos_detalhada_descricao"
+        }
+      ]
+    },
+    {
+      "sequencial": 19,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000335",
+        "natureza_despesa": "33903701",
+        "doc_observacao": "RETENCAO PARA CUMPRIMENTO DE OBRIGACOES TRABALHISTAS- PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 3024, CONTRATO N∫: 00015/2024-14.768.911/0001-78-HIGICLEAN TECNOLOGIA EM HIGIENIZACAO E CONSERVACAO LTDA.05/2025.23007.012903/2025-96",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "26.237,84"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "PAGAMENTO DO FATURAMENTO MENSAL DA EMPRESA HIGICLEAN TECNOLOGIA EM HIGIENIZACAO E CONSERVACAO LTDA, ATRELADO AO CONTRATO N∫ 15/2024 (CAMPUS CRUZ DAS ALMAS), COMPETENCIA 01/2025, PROCESSO: 23007.003271/2025-06, SOLICITANTE: CCONT/PROAD/UFRB.",
+        "doc_observacao": "RETENCAO PARA CUMPRIMENTO DE OBRIGACOES TRABALHISTAS- PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 3024, CONTRATO N∫: 00015/2024-14.768.911/0001-78-HIGICLEAN TECNOLOGIA EM HIGIENIZACAO E CONSERVACAO LTDA.05/2025.23007.012903/2025-96",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "N∫ 15",
+          "regex_usado": "N[°º∫]\\s*\\d+",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.003271/2025-06",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        }
+      ]
+    },
+    {
+      "sequencial": 20,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000336",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2397, CONTRATO N∫: 00029/2024  - 04.808.914/0003-04 - PROTEMAXI SEGURANCA PATRIMONIAL ARMADA LTDA, PROC.(S) NUM.(S): 23007.012891/2025-32, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "208.526,00"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "PAGAMENTO FATURAMENTO DA EMPRESA PROTEMAXI SEGURANCA PATRIMONIAL ARMADA LTDA - CONTRATO 29/2024 - REF. AO MES: 01/2025. PROC.: 23007.00003224/2025-14, SOLICITANTE: CCONT/PROAD/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2397, CONTRATO N∫: 00029/2024  - 04.808.914/0003-04 - PROTEMAXI SEGURANCA PATRIMONIAL ARMADA LTDA, PROC.(S) NUM.(S): 23007.012891/2025-32, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.: 23007.00003224/2025-14",
+          "regex_usado": "PROC\\.\\:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012891/2025-32",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012891",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 21,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000357",
+        "natureza_despesa": "33903006",
+        "doc_observacao": "CANCELAMENTO DA 158092/2025OB001923.PAGAMENTO REJEITADO.                      CPF/CNPJ DO USUARIO RECEBEDOR NAO E CONSISTENTE COM O TITULAR DA CONTA TRANSACIONAL ESPECIFICADA. PAGAMENTO REJEITADO PELO PSP DO RECEBEDOR - BE01",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "(192,00)"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM AQUISICAO DE RACOES E SUPLEMENTACAO ALIMENTAR ANIMAL, DESTINADOS A ALIMENTACAO DOS ANIMAIS DE RESPONSABILIDADE DA FAZENDA EXPERIMENTAL CCAAB/UFRB,  PREGAO ELETRONICO N. 06/2024. PROCESSO: 23007.006689/2025-64.",
+        "doc_observacao": "CANCELAMENTO DA 158092/2025OB001923.PAGAMENTO REJEITADO.                      CPF/CNPJ DO USUARIO RECEBEDOR NAO E CONSISTENTE COM O TITULAR DA CONTA TRANSACIONAL ESPECIFICADA. PAGAMENTO REJEITADO PELO PSP DO RECEBEDOR - BE01",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.006689/2025-64",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        }
+      ]
+    },
+    {
+      "sequencial": 22,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000357",
+        "natureza_despesa": "33903006",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 0094, CONTRATO N∫: 2025NE000357  -  ARBOTECH PRODUTOS E SERVICOS AGROPECUARIOS LTDA, PROC.(S) : 23007.006689/2025-64, DO(S) FORNECIMENTO(S) MES(ES): 06/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "192,00"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM AQUISICAO DE RACOES E SUPLEMENTACAO ALIMENTAR ANIMAL, DESTINADOS A ALIMENTACAO DOS ANIMAIS DE RESPONSABILIDADE DA FAZENDA EXPERIMENTAL CCAAB/UFRB,  PREGAO ELETRONICO N. 06/2024. PROCESSO: 23007.006689/2025-64.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 0094, CONTRATO N∫: 2025NE000357  -  ARBOTECH PRODUTOS E SERVICOS AGROPECUARIOS LTDA, PROC.(S) : 23007.006689/2025-64, DO(S) FORNECIMENTO(S) MES(ES): 06/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.006689/2025-64",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        }
+      ]
+    },
+    {
+      "sequencial": 23,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000376",
+        "natureza_despesa": "33901414",
+        "doc_observacao": "PROC 000215/25 DOC GERADO PELO SCDP. PCDP 000215/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  19/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "746,60"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR NACIONAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR",
+        "doc_observacao": "PROC 000215/25 DOC GERADO PELO SCDP. PCDP 000215/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  19/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000215",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 24,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000376",
+        "natureza_despesa": "33901414",
+        "doc_observacao": "PROC 000217/25 DOC GERADO PELO SCDP. PCDP 000217/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  18/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "837,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR NACIONAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR",
+        "doc_observacao": "PROC 000217/25 DOC GERADO PELO SCDP. PCDP 000217/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  18/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000217",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 25,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000376",
+        "natureza_despesa": "33901414",
+        "doc_observacao": "PROC 000220/25 DOC GERADO PELO SCDP. PCDP 000220/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  18/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "918,86"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR NACIONAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR",
+        "doc_observacao": "PROC 000220/25 DOC GERADO PELO SCDP. PCDP 000220/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  18/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000220",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 26,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000376",
+        "natureza_despesa": "33901414",
+        "doc_observacao": "PROC 000222/25 DOC GERADO PELO SCDP. PCDP 000222/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.172,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR NACIONAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR",
+        "doc_observacao": "PROC 000222/25 DOC GERADO PELO SCDP. PCDP 000222/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000222",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 27,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000376",
+        "natureza_despesa": "33901414",
+        "doc_observacao": "PROC 000223/25 DOC GERADO PELO SCDP. PCDP 000223/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.172,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR NACIONAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR",
+        "doc_observacao": "PROC 000223/25 DOC GERADO PELO SCDP. PCDP 000223/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000223",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 28,
+      "unique_key": {
+        "ne_ccor": "364102362012024NE006730",
+        "natureza_despesa": "33901801",
+        "doc_observacao": "NAO SE APLICA",
+        "ne_ccor_ano_emissao": "2024",
+        "emissao_dia": "000/2025",
+        "emissao_mes": "000/2025",
+        "despesas_empenhadas": "NaN",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "MENSALIDADES DE BOLSISTAS NO PAIS -  MIR - MINISTERIO DA IGUALDADE RACIAL, VISANDO FORTALECER A AGENDA DE PESQUISA SOBRE A QUESTAO RACIAL, E CONTRIBUICAO PARA O DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO E A INOVACAO DO PAIS. TED 958214",
+        "doc_observacao": "NAO SE APLICA",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "958214",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        }
+      ]
+    },
+    {
+      "sequencial": 29,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000376",
+        "natureza_despesa": "33901414",
+        "doc_observacao": "PROC 000227/25 DOC GERADO PELO SCDP. PCDP 000227/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.267,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR NACIONAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR",
+        "doc_observacao": "PROC 000227/25 DOC GERADO PELO SCDP. PCDP 000227/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000227",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 30,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000377",
+        "natureza_despesa": "33903602",
+        "doc_observacao": "PROC 000159/25 DOC GERADO PELO SCDP. PCDP 000159/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.267,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR COLABORADOR EVENTUAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR.",
+        "doc_observacao": "PROC 000159/25 DOC GERADO PELO SCDP. PCDP 000159/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000159",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 31,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000377",
+        "natureza_despesa": "33903602",
+        "doc_observacao": "PROC 000216/25 DOC GERADO PELO SCDP. PCDP 000216/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.267,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR COLABORADOR EVENTUAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR.",
+        "doc_observacao": "PROC 000216/25 DOC GERADO PELO SCDP. PCDP 000216/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000216",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 32,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000377",
+        "natureza_despesa": "33903602",
+        "doc_observacao": "PROC 000218/25 DOC GERADO PELO SCDP. PCDP 000218/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  19/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "932,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR COLABORADOR EVENTUAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR.",
+        "doc_observacao": "PROC 000218/25 DOC GERADO PELO SCDP. PCDP 000218/25 P/ PGTO. DE  2,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  19/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000218",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 33,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000377",
+        "natureza_despesa": "33903602",
+        "doc_observacao": "PROC 000224/25 DOC GERADO PELO SCDP. PCDP 000224/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.267,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM O PAGAMENTO DE DIARIAS SERVIDOR COLABORADOR EVENTUAL PARFOR EXERCICIO 2025. PROCESSO N.∫ 23007.000393/2025-15. SOLICITANTE: CODIN/NUGOR.",
+        "doc_observacao": "PROC 000224/25 DOC GERADO PELO SCDP. PCDP 000224/25 P/ PGTO. DE  3,5 DIARIA(S) REF. A VIAGEM EM TERRITORIO NACIONAL NO PERIODO DE  17/07/2025 A  20/07/2025.",
+        "fonte_recursos_detalhada_descricao": "PROGRAMA PARFOR-CAPES"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.000393/2025-15",
+          "regex_usado": "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC 000224",
+          "regex_usado": "PROC\\s+\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 34,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000394",
+        "natureza_despesa": "33903022",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 154, CONTRATO N∫: 2025NE000394  - 13.713.800/0001-00 - M. L. ALENCAR, PROC.(S) NUM.(S): 23007.006945/2025-39, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "1.476,00"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "AQUISICAO DE MATERIAL HOSPITALAR, LABORATORIAL E QUIMICO PARA ATENDER AS DEMANDAS DO HOSPITAL UNIVERSITARIO DE MEDICINA VETERINARIA (HUMV) DA UFRB,  PREGAO ELETRONICO NO 52/2023. PROCESSO: 23007.006945/2025-39, SOLICITANTE: HUMV/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 154, CONTRATO N∫: 2025NE000394  - 13.713.800/0001-00 - M. L. ALENCAR, PROC.(S) NUM.(S): 23007.006945/2025-39, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 07/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.006945/2025-39",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.006945/2025-39",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.006945",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 35,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000582",
+        "natureza_despesa": "33903965",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 23016/A, CONTRATO N∫: 00022/2025  - FUNDACAO DE APOIO A PESQUISA E A EXTENSAO, PROC.(S) NUM.(S): 23007.008427/2025-86, DO(S) SERVICO(S) MES(ES): 07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "839.210,00"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "CONTRATACAO DA FAPEX PARA ATENDER O PROCAMPO - APOIO AS ATIVIDADES DO TEMPO COMUNIDADE DO TEMPO COMUNIDADE 2025 2026/COLEGIADO DO CURSO DE LICENCIATURA EM EDUCACAO DO CAMPO COM ENFASE EM CIENCIAS AGRARIAS DO CENTRO DE FORMACAO DE PROFESSORES (CFP), TED 15565, DISPENSA: 139/2025, PROCESSO: 23007.00008427/2025-86, SOLICITANTE: COOPC/PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 23016/A, CONTRATO N∫: 00022/2025  - FUNDACAO DE APOIO A PESQUISA E A EXTENSAO, PROC.(S) NUM.(S): 23007.008427/2025-86, DO(S) SERVICO(S) MES(ES): 07/2025.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "15565",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00008427/2025-86",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.008427/2025-86",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.008427",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 36,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000397",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2988, 2989, CONTRATO N∫: 00033/2024  - 04.542.518/0001-08 - VIGSEG VIGILANCIA E SEGURANCA DE VALORES LTDA, PROC.(S) NUM.(S): 23007.004972/2024-60, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 06/2025. 23007.012804/2025-53.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "40.041,93"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM SERVICOS CONTINUADOS DE VIGILANCIA, ARMADA E DESARMADA, A PE E MOTORIZADA, COM COMUNICACAO ELETRONICA MOVEL, VISANDO A ATENDER AS NECESSIDADES DA UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA (UFRB), EM TODOS OS SEUS CAMPI, LOCALIZADOS NAS CIDADES BAIANAS DE FEIRA DE SANTANA E SANTO AMARO, CONTRATO: 33/2024. PROCESSO: 23007.006045/2025-89, SOLICITANTE: CCONT/PROAD/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2988, 2989, CONTRATO N∫: 00033/2024  - 04.542.518/0001-08 - VIGSEG VIGILANCIA E SEGURANCA DE VALORES LTDA, PROC.(S) NUM.(S): 23007.004972/2024-60, DO(S) FORNECIMENTO(S)/SERVICO(S) PRESTADO(S) AO(S) MES(ES): 06/2025. 23007.012804/2025-53.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.006045/2025-89",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.004972/2024-60",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.004972",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 37,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000397",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "RETENCAO DE ISS CONF. LC 116/2003- PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2988, CONTRATO N∫: 00033/2024  - 04.542.518/0001-08 - VIGSEG VIGILANCIA E SEGURANCA DE VALORES . 23007.012804/2025-53",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "2.303,21"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM SERVICOS CONTINUADOS DE VIGILANCIA, ARMADA E DESARMADA, A PE E MOTORIZADA, COM COMUNICACAO ELETRONICA MOVEL, VISANDO A ATENDER AS NECESSIDADES DA UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA (UFRB), EM TODOS OS SEUS CAMPI, LOCALIZADOS NAS CIDADES BAIANAS DE FEIRA DE SANTANA E SANTO AMARO, CONTRATO: 33/2024. PROCESSO: 23007.006045/2025-89, SOLICITANTE: CCONT/PROAD/UFRB.",
+        "doc_observacao": "RETENCAO DE ISS CONF. LC 116/2003- PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2988, CONTRATO N∫: 00033/2024  - 04.542.518/0001-08 - VIGSEG VIGILANCIA E SEGURANCA DE VALORES . 23007.012804/2025-53",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.006045/2025-89",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "CONTRATO N∫: 00033/2024",
+          "regex_usado": "CONTRATO\\s*N∫:\\s*\\d{5}/\\d{4}",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 38,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000397",
+        "natureza_despesa": "33903703",
+        "doc_observacao": "RETENCAO PARA CUMPRIMENTO DE OBRIGACOES TRABALHISTAS- PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2988,2989- CONTRATO N∫: 00033/2024  - 04.542.518/0001-08 - VIGSEG VIGILANCIA E SEGURANCA DE VALORES LTDA",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "10.441,81"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM SERVICOS CONTINUADOS DE VIGILANCIA, ARMADA E DESARMADA, A PE E MOTORIZADA, COM COMUNICACAO ELETRONICA MOVEL, VISANDO A ATENDER AS NECESSIDADES DA UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA (UFRB), EM TODOS OS SEUS CAMPI, LOCALIZADOS NAS CIDADES BAIANAS DE FEIRA DE SANTANA E SANTO AMARO, CONTRATO: 33/2024. PROCESSO: 23007.006045/2025-89, SOLICITANTE: CCONT/PROAD/UFRB.",
+        "doc_observacao": "RETENCAO PARA CUMPRIMENTO DE OBRIGACOES TRABALHISTAS- PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 2988,2989- CONTRATO N∫: 00033/2024  - 04.542.518/0001-08 - VIGSEG VIGILANCIA E SEGURANCA DE VALORES LTDA",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.006045/2025-89",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "CONTRATO N∫: 00033/2024",
+          "regex_usado": "CONTRATO\\s*N∫:\\s*\\d{5}/\\d{4}",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 39,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000420",
+        "natureza_despesa": "33903036",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 7107, CONTRATO N∫: 2025NE000420  - RZ EQUIPAMENTOS VETERINARIOS LTDA, PROC.(S): 23007.006969/2025-70, DO(S) FORNECIMENTO MES(ES): 05/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "532,50"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM A AQUISICAO DE MATERIAL HOSPITALAR, LABORATORIAL E QUIMICO PARA SUPRIR AS NECESSIDADES DO HOSPITAL UNIVERSITARIO DE MEDICINA VETERINARIA - HUMV/UFRB. MODALIDADE DE COMPRA: PREGAO ELETRONICO SRP N.∫ 52/2023. PROCESSO N.∫ 23007.00006969/2025-70. SOLICITANTE: HUMV",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 7107, CONTRATO N∫: 2025NE000420  - RZ EQUIPAMENTOS VETERINARIOS LTDA, PROC.(S): 23007.006969/2025-70, DO(S) FORNECIMENTO MES(ES): 05/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO N.∫ 23007.00006969/2025-70",
+          "regex_usado": "PROCESSO\\s+N\\.?∫\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S): 23007.006969/2025-70",
+          "regex_usado": "PROC\\.\\(S\\):\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 40,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000428",
+        "natureza_despesa": "33903028",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) : 1404, CONTRATO N∫: 2025NE000428  -  BRASEPI COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.006791/2025-26, DO(S) FORNECIMENTO(S) MES(ES): 06/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "15.900,00"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "AQUISICAO DE EQUIPAMENTOS DE PROTECAO INDIVIDUAL PARA OS TECNICOS DE LABORATORIO DO CCAAB DA UNIVERSIDADE FEDERAL DO RECONCAVO DA BAHIA (UFRB), PREGAO ELETRONICO N. 58/2023, PROCESSO: 23007.006791/2025-26, SOLICITANTE: CCAAB/ UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) : 1404, CONTRATO N∫: 2025NE000428  -  BRASEPI COMERCIO DE EQUIPAMENTOS DE SEGURANCA LTDA, PROC.(S) NUM.(S): 23007.006791/2025-26, DO(S) FORNECIMENTO(S) MES(ES): 06/2025.",
+        "fonte_recursos_detalhada_descricao": "RECURSOS LIVRES DA UNIAO"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.006791/2025-26",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.006791/2025-26",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.006791",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 41,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000578",
+        "natureza_despesa": "33903965",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 23017/A, CONTRATO N∫: 00019/2025  -  FUNDACAO DE APOIO A PESQUISA E A EXTENSAO, PROC.(S) (S): 23007.011366/2025-79, DO(S) SERVICO(S)  MES(ES): 07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "141.176,80"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "CONTRATACAO DA FUNDACAO DE APOIO PARA O GERENCIAMENTO ADMINISTRATIVO E FINANCEIRO, ATRAVES DA DESCENTRALIZACAO DE RECURSOS FINANCEIROS PELO TED N∫ 15566 PARA O PROJETO INTITULADO CURSO DE APERFEICOAMENTO EM EDUCACAO DO CAMPO ESCOLA DA TERRA CFP-UFRB, EDICAO 2025-2026. PROC.:: 23007.00011366/2025-79, SOLICITANTE: COOPC/PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 23017/A, CONTRATO N∫: 00019/2025  -  FUNDACAO DE APOIO A PESQUISA E A EXTENSAO, PROC.(S) (S): 23007.011366/2025-79, DO(S) SERVICO(S)  MES(ES): 07/2025.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "N∫ 15566",
+          "regex_usado": "N[°º∫]\\s*\\d+",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "TED",
+          "valor_extraido": "TED N∫ 15566",
+          "regex_usado": "TED\\s+(?:SIAFI\\s+)?N[∫]?\\s*\\d+",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "CONTRATO N∫: 00019/2025",
+          "regex_usado": "CONTRATO\\s*N∫:\\s*\\d{5}/\\d{4}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) (S): 23007.011366/2025-79",
+          "regex_usado": "PROC(?:ESSO)?(?:\\s*SEI)?(?:\\.\\(S\\)\\s*\\(S\\))?\\s*[:]\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 42,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000579",
+        "natureza_despesa": "33903943",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "5.828,40"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ANTEDER DESPESAS COM CONTRATACAO COM SERVICO NO FORNECIMENTO DE ENERGIA ELETRICA, CONFORME RECURSO TED 15566, CONTRATO: 19/2025, PROCESSO:  23007.011366/2025-79, SOLICITANTE: COOPC/PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "15566",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.011366/2025-79",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012403/2025-16",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012403",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 43,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000580",
+        "natureza_despesa": "33903965",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 23018/A, CONTRATO N∫: 00021/2025  -  FUNDACAO DE APOIO A PESQUISA E A EXTENSAO, PROC.(S) : 23007.009887/2025-48, DO(S) SERVICO(S) MES(ES): 07/2025.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "117.715,14"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "CONTRATACAO DE FUNDACAO DE APOIO PARA PROJETO DE ESPECIALIZACAO EMEDUCACAO DO CAMPO: TRABALHO EDUCATIVO E ENSINO. DISPENSA: 141/2025, CONTRATO: 21/2025, PROCESSO: 23007.009887/2025-48, SOLICITANTE: COOPC/PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 23018/A, CONTRATO N∫: 00021/2025  -  FUNDACAO DE APOIO A PESQUISA E A EXTENSAO, PROC.(S) : 23007.009887/2025-48, DO(S) SERVICO(S) MES(ES): 07/2025.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.009887/2025-48",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "CONTRATO N∫: 00021/2025",
+          "regex_usado": "CONTRATO\\s*N∫:\\s*\\d{5}/\\d{4}",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 44,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000581",
+        "natureza_despesa": "33903943",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "4.864,86"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "CONTRATACAO DE FUNDACAO DE APOIO PARA PROJETO DE ESPECIALIZACAO EMEDUCACAO DO CAMPO: TRABALHO EDUCATIVO E ENSINO. DISPENSA: 141/2025, CONTRATO: 21/2025, PROCESSO: 23007.009887/2025-48, SOLICITANTE: COOPC/PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.009887/2025-48",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012403/2025-16",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012403",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 45,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000583",
+        "natureza_despesa": "33903943",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "48.790,00"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "CONTRATACAO DE EMPRESA PARA FORNECIMENTO DE ENERGIA ELETRICA POR MEIO DO TED: TED 15565 PROCAMPO, PROCESSO: 23007.00008427/2025-86, SOLICITANTE: COOPC/PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "15565",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00008427/2025-86",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012403/2025-16",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012403",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 46,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000588",
+        "natureza_despesa": "33903943",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "58.823,53"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESAS COM FORNECIMENTO DE SERVICO DE ENERGIA ELETRICA, CONFORME RECURSO TED 15518 SEMINARIO NAC E MOSTRA PEDAGOGICA DE MUSICA E EDUCACO AFROBRASILEIRA, PROCESSO: 23007.00006436/2025-08, SOLICITANTE: COOPC PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "15518",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00006436/2025-08",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012403/2025-16",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012403",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 47,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000590",
+        "natureza_despesa": "33903943",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "0,00",
+        "despesas_liquidadas": "0,00",
+        "despesas_pagas": "65.658,15"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESAS COM FORNECIMENTO DE SERVICO DE ENERGIA ELETRICA, CONFORME RECURSO TED 15517 CANTOS DE AVO HISTORIAS AFROATLANTICAS DE ALELUIA, PROCESSO: 23007.00006430/2025-73, SOLICITANTE: COOPC PROPLAN/UFRB.",
+        "doc_observacao": "PGTO DO(S) INSTR.(S) DE COBRANCA(S) NUM.(S): 610047411716, CONTRATO N∫: 00003/2015  -  COELBA, PROC.(S) NUM.(S): 23007.012403/2025-16, DO(S) SERVICO(S) PRESTADO(S) AO(S) MES(ES): 05/2025.  CONTAS DIVERSAS.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "15517",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROCESSO: 23007.00006430/2025-73",
+          "regex_usado": "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "PROC.(S) NUM.(S): 23007.012403/2025-16",
+          "regex_usado": "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM.(S): 23007.012403",
+          "regex_usado": "NUM\\.\\(S\\):\\s*\\d+\\.\\d+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 48,
+      "unique_key": {
+        "ne_ccor": "364102362012024NE006733",
+        "natureza_despesa": "33902001",
+        "doc_observacao": "NAO SE APLICA",
+        "ne_ccor_ano_emissao": "2024",
+        "emissao_dia": "000/2025",
+        "emissao_mes": "000/2025",
+        "despesas_empenhadas": "NaN",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "REF. EDITAL/CHAM. RH MINERACAO 2022, APQ/PROGRAMA DE CIENCIA E TECNOLOGIA MINERAL - CT MINERAL, DSE 586928/2024 TED 932260",
+        "doc_observacao": "NAO SE APLICA",
+        "fonte_recursos_detalhada_descricao": "CT-MINERAL"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "932260",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        }
+      ]
+    },
+    {
+      "sequencial": 49,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000615",
+        "natureza_despesa": "33903916",
+        "doc_observacao": "ATENDER DESPESA COM MANUTENCAO PREDIAL NA SEAD/UFRB. TED 15497, CONTRATO 05/2024, PROCESSO: 23007.014649/2025-96.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "111.345,00",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM MANUTENCAO PREDIAL NA SEAD/UFRB. TED 15497, CONTRATO 05/2024, PROCESSO: 23007.014649/2025-96.",
+        "doc_observacao": "ATENDER DESPESA COM MANUTENCAO PREDIAL NA SEAD/UFRB. TED 15497, CONTRATO 05/2024, PROCESSO: 23007.014649/2025-96.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "15497",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.014649/2025-96",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "TED",
+          "valor_extraido": "15497",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.014649/2025-96",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    },
+    {
+      "sequencial": 50,
+      "unique_key": {
+        "ne_ccor": "158092263512025NE000616",
+        "natureza_despesa": "33903965",
+        "doc_observacao": "ATENDER DESPESA COM PROJETO - LER O MUNDO, ESCREVER A VIDA: ALFABETIZACAO DE JOVENS, ADULTOS E IDOSOS NA BAHIA E MINAS GERAIS / PROEXC/CFP / COORDENADORA: ANDREIA BARBOSA DOS SANTOS. DISPENSA 144/2025.TED 15693, NUM. TRANSFERENCIA : 1AAYDE,  PROCESSO: 23007.014733/2025-59.",
+        "ne_ccor_ano_emissao": "2025",
+        "emissao_dia": "15/07/2025",
+        "emissao_mes": "JUL/2025",
+        "despesas_empenhadas": "1.565.362,50",
+        "despesas_liquidadas": "NaN",
+        "despesas_pagas": "NaN"
+      },
+      "colunas_analisadas": {
+        "ne_ccor_descricao": "ATENDER DESPESA COM PROJETO - LER O MUNDO, ESCREVER A VIDA: ALFABETIZACAO DE JOVENS, ADULTOS E IDOSOS NA BAHIA E MINAS GERAIS / PROEXC/CFP / COORDENADORA: ANDREIA BARBOSA DOS SANTOS. DISPENSA 144/2025.TED 15693, NUM. TRANSFERENCIA : 1AAYDE,  PROCESSO: 23007.014733/2025-59.",
+        "doc_observacao": "ATENDER DESPESA COM PROJETO - LER O MUNDO, ESCREVER A VIDA: ALFABETIZACAO DE JOVENS, ADULTOS E IDOSOS NA BAHIA E MINAS GERAIS / PROEXC/CFP / COORDENADORA: ANDREIA BARBOSA DOS SANTOS. DISPENSA 144/2025.TED 15693, NUM. TRANSFERENCIA : 1AAYDE,  PROCESSO: 23007.014733/2025-59.",
+        "fonte_recursos_detalhada_descricao": "TERMO DE EXECUCAO DESCENTRALIZADA - MEC"
+      },
+      "identificadores_encontrados": [
+        {
+          "tipo": "TED",
+          "valor_extraido": "15693",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.014733/2025-59",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM. TRANSFERENCIA : 1AAYDE",
+          "regex_usado": "NUM\\.\\s*TRANSFER[ÊE]NCIA\\s*[:\\-]?\\s*[A-Z0-9]+",
+          "origem_coluna": "ne_ccor_descricao"
+        },
+        {
+          "tipo": "TED",
+          "valor_extraido": "15693",
+          "regex_usado": "TED\\s*([0-9]{3,6})",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "Processo_SEI",
+          "valor_extraido": "23007.014733/2025-59",
+          "regex_usado": "PROCESSO[:\\s]*([0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+          "origem_coluna": "doc_observacao"
+        },
+        {
+          "tipo": "NUMERO_TRANSF",
+          "valor_extraido": "NUM. TRANSFERENCIA : 1AAYDE",
+          "regex_usado": "NUM\\.\\s*TRANSFER[ÊE]NCIA\\s*[:\\-]?\\s*[A-Z0-9]+",
+          "origem_coluna": "doc_observacao"
+        }
+      ]
+    }
+  ],
+  "regexes_aprendidos": {
+    "Processo_SEI": [
+      "PROC\\.\\(S\\):\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+      "PROCESSO\\s+N[\\.°º∫]*\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+      "PROCESSO\\s+N\\.?∫\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+      "PROCESSO:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+      "PROC\\.\\:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+      "PROC(?:ESSO)?(?:\\s*SEI)?(?:\\.\\(S\\)\\s*\\(S\\))?\\s*[:]\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC(?:\\.?\\(S\\)?)?\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*\\d{5}\\.\\d{6}/\\d{4}\\.\\-\\d{2}",
+      "PROCESSO\\s*[:]{1,2}\\s*[0-9]{5}\\.[0-9]{8}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+[0-9]{5}\\.[0-9]{6,8}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*(?:SEI\\s*)?(?:N\\.?\\s*)?[0-9]{5}\\.[0-9]{6,8}/[0-9]{4}-[0-9]{2}",
+      "(?:PROCESSO\\s*SEI|PROC(?:ESSO)?\\s*SEI|PROC\\.\\s*\\(S\\)\\s*NUM\\.\\(S\\))\\s*[:]?\\s*[0-9]{5}\\.[0-9]{8}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+ASSOCIADO\\s*:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+      "PROC(?:\\.\\(S\\))?\\s*NUM\\.?\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\s*\\.\\s*:\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+      "PROCESSO\\.?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\s*NUM\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "(?:PROC\\.?|PROCESSO\\s*SEI:?)\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+      "PROC\\.?\\s*NUM\\.?\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC(?:\\.?\\(S\\))?\\s*NUM(?:\\.?\\(S\\))?\\s*[:]?\\s*[0-9]{5}\\.[0-9]{5,6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*[:]?\\s*[0-9]{4,5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*(?:\\d{5}[.\\s]?\\d{6}[\\/\\s]?\\d{4}[-\\s]?\\d{2})",
+      "(PROCESSO\\s*:\\s*\\d{5}\\.\\d{7}/\\d{4}-\\d{2})",
+      "PROCESSO(?:\\s*SEI)?\\s*[:]?\\s*(?:SOLICITANTE\\s*[:]?\\s*)?[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*\\(S\\)\\s*[:]?\\s*[0-9]+\\.[0-9]+/[0-9]+-[0-9]+",
+      "PROC\\.?\\s*\\(?S\\)?\\s*NUM\\.?\\s*\\(?S\\)?\\s*[:]?\\s*\\d{4}\\.\\d{6}/\\d{4}-\\d{2}",
+      "(PROC\\.\\(S\\)\\s*NUM\\.\\(S\\):\\s*\\d{5}\\.\\d{7}/\\d{4}-\\d{2})",
+      "PROCESSO\\s*[∫]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+(?:ASSOCIADO\\s*)?:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC(?:\\.?\\(?[Ss]\\)?)?\\s*NUM(?:\\.?\\(?[Ss]\\)?)?\\s*:\\s*[0-9]{4}\\.[0-9]{5}/[0-9]{4}-[0-9]{2}",
+      "PROC:{2}\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d{2}",
+      "(?i)\\bPROCESSO\\s*:?\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}\\b",
+      "PROC(?:\\s+(?:NUMERO|N[°ºo]?))?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO(?:\\s+SEI)?\\s*:?\\s*(?:[éÉ]?)\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}\\s*[-–]\\s*[0-9]{2}",
+      "PEN\\s+[0-9]{5}\\.[0-9]{6}/[0-9]{4}\\s*[-–]\\s*[0-9]{2}",
+      "(PROCESSO\\s*[0-9]+/[0-9]{4}-[0-9]{2})",
+      "PROC\\.?\\s*:?\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\):\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "PROCESSO\\s+ADMINISTRATIVO:\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "(?i)(?:PROC(?:ESSO)?(?:\\.?|\\s+SEI)?(?:\\s+DE\\s+ORIGEM)?)\\s*(?:N[º°]?|N∫)\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*(?:DE\\s+ORIGEM\\s*)?[:#]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "(PROC\\.\\(S\\)\\d{6}/\\d{4}-\\d{2})",
+      "(?:PROCESSO\\s*SEI|PROC\\.?\\s*SEI|PROC|N)\\s*[:#]?\\s*(?:[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}|[0-9]{11}/[0-9]{4}-[0-9]{2}|[0-9]{11})",
+      "(?:PROC(?:\\.\\(S\\))?|PROCESSO\\s*SEI)\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO(?:\\s+DE)?\\s+LIQUIDACAO\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*[:]?\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "N\\.?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\(S\\s*\\)\\s+NUM\\.\\(S\\):\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+      "PROC\\.\\s*:\\s*\\d{1,7}\\.\\d{1,8}/\\d{4}-\\d{2}",
+      "PROC\\.?\\s*\\d{1,5}\\.\\d{1,6}/\\d{2,4}-\\d{2}",
+      "PROCESSO\\s*(?:SEI\\s*[:]?\\s*|N[º°]\\s*)?[0-9]{1,6}(?:\\.[0-9]{1,6})?/[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\(S\\)\\s*NUM\\.\\(S\\):\\s*\\d{5}\\.\\d{6}/\\d{3}\\s?\\d-\\d{2}",
+      "PROC\\s*[:]?\\s*[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "(?:PROC\\.?\\(S\\)\\s*NUM\\.?\\(S\\)\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}(?:-[0-9]{2})?)",
+      "PROCESSO\\s+N[º°]?\\s*\\d{6}/\\d{2}-\\d{2}",
+      "PROCESSO\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{3,4}-[0-9]{2}",
+      "PROC\\s*[:]?\\s*\\d+\\.\\d+/\\d{4}-\\d{2}",
+      "(PROC[.,:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2})",
+      "PROC\\.?\\s*\\(S\\)?\\s*NUM\\.?\\s*\\(S\\)?\\s*[:]?\\s*[0-9]+\\.[0-9]+(?:/[0-9]{4})?-[0-9]{2}",
+      "PROC\\.?\\s*NR\\.?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*(?:SEI\\s*[N°º]?\\s*)?[0-9]{6}\\.[0-9]{5}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*\\.?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\(?S\\)?\\s*NUM\\.?\\(?S\\)?\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{3,4}-[0-9]{2}",
+      "(?i)(PROCESSO\\s+DE\\s+PAGAMENTO\\s+\\d{5}\\.\\d{6}/\\d{4}-\\d{2})",
+      "SEI\\s*(?:N[°º]?\\s*)?[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*SEI\\s*[:\\-]?\\s*(?:N[º°o]?\\s*)?\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+      "PROCESSO\\s*SEI\\s*(?:N[^\\s]*\\s*)?[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*NR\\.?\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*(?:SEI\\s*[:]?\\s*)?[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]+",
+      "PROC\\s*(?:NR)?\\s*[0-9]{5}\\.[0-9]{6}[0-9]{6}",
+      "SEI\\s*\\d{6,}",
+      "SEI\\s*\\(?\\s*\\d{1,}\\s*\\)?",
+      "(?:PROCESSO\\s*SEI|PROC\\.?\\s*PAGAMENTO)\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.DE\\s+PAGAMENTO\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+(?:SEI|TED)\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "(?:PROCESSO|PROC\\.?)(?:\\s*SEI)?\\s*[0-9]{1,7}\\.[0-9]{1,8}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*[:]?\\s*\\d+\\.\\d+/\\d+",
+      "PROCESSO\\s*(?:SEI\\s*)?(?:N[°ºo]?\\s*\\.?\\s*)?[0-9]{7}\\.[0-9]{8}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\s*NUM\\.?\\(S\\)?:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\s*NUM\\.?\\)?\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*(?:SEI)?\\s*(?:N[°ºo]?\\s*)?:?\\s*[0-9]+[\\./-][0-9]+(?:[\\./-][0-9]+)?",
+      "PROC\\.\\s*N[°ºo∫]\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "PROC\\s+N∫\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "PROCESSO\\s+N[°ºo∞∫]?\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+DE\\s+SUPRIMENTO\\s+DE\\s+FUNDOS\\s+[Nn][º°]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO(?:\\s+ADMINISTRATIVO)?\\s+N[º°]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*\\d{1,5}\\.\\d{2,6}/\\d{2,4}-\\d{2}",
+      "PROCESSO\\s+(?:N\\.)?[A-ZŽ0-9]+\\.[0-9]+/[0-9]{4}-[0-9]{2}",
+      "PROC\\.\\s*NUM\\.?\\s*[:]?\\s*[0-9]{7}\\.[0-9]{8}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*(?:NUM\\.)?\\s*[:.]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*[0-9]{3,6}\\.\\s*[0-9]{3,5}\\/[0-9]{2,4}\\-[0-9]{2}",
+      "PROC\\.?\\s*NUM\\.?\\.?\\:?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*\\d{5}\\.\\d{6}\\s*[\\/\\.]\\d{4}-\\d+",
+      "PROCESSO\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[A-Z]+",
+      "PROCESSO\\s*(?:DE\\s*NUMERO|SEI)\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+(?:\\w+\\s*)?[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+(?:SEI\\s*)?(?:[A-Z]{2,})?\\s*[:,]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "\\bPROCESSO\\s+\\d{5}\\.\\d{6}/\\d\\s+\\d{3}-\\d{2}\\b",
+      "PROCESSO\\s+N[°º\\.]?\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+N[°ºo∞∫]?\\s*\\d+\\s+[0-9]\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+DE\\s+PAGAMENTO\\s+DE\\s+NUMERO\\s+[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "(?:PROCESSO\\s*SEI\\s*[:]?\\s*|PROC\\.?\\s*N\\.?\\s*)[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*(?:NR\\.?|SEI\\s*[:]? )\\s*[0-9]{5}\\.[0-9]{6}[\\/.][0-9]{4}-[0-9]{2}",
+      "PROCESSOD\\s+DE\\s+EMPENHO:\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "PROCESSO(?:\\s+DE\\s+\\w+)?\\s*N[°ºo∞∫]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO(?:\\s+[A-Z]+(?:\\s+[A-Z]+)*)?\\s*:\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "(?:PROCESSO\\s*SEI|PROC)(?:\\s*[:#.]?\\s*)[0-9]{5}\\.[0-9]{6}[./][0-9]{4}-[0-9]{2}",
+      "PROC\\.\\s*(?:NUM\\.|SEI)?\\s*[:\\.]?\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*(?:SEI\\s*[:#]?\\s*)?(?:N[°ºo]?\\s*)?[0-9]{4}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+N§\\s*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "PROCESSO(?:\\s+DE\\s+\\w+)?\\s+N[∫]?\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*[0-9]+\\.[0-9]+\\.[0-9]+-[0-9]+",
+      "PROCESSO\\s+N[^\\d\\s]*\\d{5}\\.\\d{6}\\.\\d{4}-\\d{2}",
+      "PROC\\.?ESSO\\s*[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROCESSO(?:\\s+[A-ZÁÉÍÓÚÇÃÕÑ]+)*\\s+[0-9]{5}\\.[0-9]{6}\\.[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*SEI\\s*N∫\\s*\\d{6}/\\d{4}-\\d{2}",
+      "PROCESSO(?:\\s+DE\\s+RESSARCIMENTO)?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROC\\.?\\s*(?:SEI\\s*)?(?:N[°º]?\\s*)?[0-9]{5,}",
+      "PROCESSO\\s*(?:SEI\\s*)?[0-9]{5}\\.[0-9]{6}/[0-9]{4}-?",
+      "PROCESSO\\s*N\\D\\.?\\s*[0-9]{6}/[0-9]{2}-[0-9]{2}",
+      "PROCESSO(?:\\s*SEI)?\\s*[:]?\\s*[0-9]{5}\\.[0-9]{2}\\s*[0-9]{4}/[0-9]{4}-[0-9]{2}",
+      "(PROCESSO\\s*[0-9]+/[0-9]{2}-[0-9]{2})",
+      "PROCESSO\\.?\\s*[0-9]{1,6}/[0-9]{2}-[0-9]{2}",
+      "PROC\\.SEI\\.\\d{1,6}/\\d{4}-\\d{2}",
+      "PROCESSO\\s*SEI\\.?\\s*:?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO:\\.\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+      "PROCESSO\\s*:\\s*\\d+\\.\\d+\\s+\\d+/\\d{4}-\\d{2}",
+      "PROCESSO\\s+(?:SEI\\s*)?[0-9]{5}\\.[0-9]\\s*[0-9]{5}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*(?:SEI\\s*)?(?:N[°ºo]?\\s*)?[0-9]{5}\\s*\\.\\s*[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*:?\\s*N\\W?\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d{2}",
+      "PROC\\.\\s*N\\.\\s*[0-9]{2}\\.[0-9]{3}\\.[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "(?:PROCESSO\\s*SEI\\s*[:#]?\\s*)?[0-9]{6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s+\\d{5}\\.\\d{6}/\\d{2}\\s\\d{2}-\\d{2}",
+      "PROCESSO\\s*[:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4}-\\s*[0-9]{1,2}",
+      "PROCESSO\\s*(?:SEI\\s*)?(?:N[°ºo]?\\s*)?[0-9]{5}\\.[0-9]{4,6}\\s*[0-9]{2}/[0-9]{4}-[0-9]{2}",
+      "(PROCESSO\\s*(?:SEI\\s*[:#]?\\s*)?(?:N[°ºo]?\\s*)?\\d{5}\\.\\d{6}/\\d{2,4}(?:-\\d{2})?)",
+      "PROCESSO\\s*(?:SEI\\s*)?(?:N[°ºo∞]\\s*)?\\d{5}\\.\\d{6}/\\s*\\d{4}-\\d{2}",
+      "PROC\\.\\s*N\\.\\s*\\d{2}(?:\\.\\d{3}){3}/\\d{4}-\\d{2}",
+      "PROCESSO\\s*[:]?\\s*[0-9]{5}\\.[0-9]{3}\\.[0-9]{3}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*\\d{5}\\.\\d{5}\\s*\\d\\/\\d{4}-\\d{2}",
+      "(PROCESSO\\s*:?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{4})",
+      "(PROCESSO\\s*:?\\s*[0-9]{5,}/[0-9]{2,}-[0-9]{2,})",
+      "PROC\\.?\\s*SEI\\.?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{2,4}-[0-9]{2}",
+      "PROCESSO\\s*(?:SEI\\s*[:#]?\\s*)?(?:N[°ºo∞]\\s*)?[0-9]+(?:\\.[0-9]+/[0-9]+-[0-9]+)?",
+      "PROC(?:\\.\\(S\\))?\\s*NUM(?:\\.\\(S\\))?\\s*:\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{2}-[0-9]{2}",
+      "PROC(?:\\.?\\s*)?\\(S\\)?\\s*NUM(?:\\.?\\s*)?\\(S\\)?:\\s*\\d{5}\\.\\d{5}/\\d{2}-\\d{2}",
+      "PROC\\.?\\s*SEI\\.?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{2,4}\\s*[-]?\\s*[0-9]{1,3}",
+      "PROC\\.\\(S\\)\\s+NUM\\.\\(S\\):\\s*\\d+\\.\\d+/\\d{4}-\\d+",
+      "PROC(?:\\.\\(S\\))?\\s*NUM(?:\\.\\(S\\))?\\s*:\\s*[0-9]{5}\\.[0-9]{4}/[0-9]{2,4}-[0-9]{2}",
+      "PROCESSO\\s+SEI\\s+(?:N[°º∫]?\\s*)?[0-9]{5}\\.[0-9]{6}/[0-9]{4}-[0-9]{1,2}\\s*\\d*",
+      "PROC\\.?\\s*SEI\\.?\\s*[0-9]{5}\\.[0-9]{4}/[0-9]{2}-[0-9]{2}",
+      "PROCESSO\\s*:?\\s*[0-9]{5}\\.[0-9]{6}\\/[0-9]{2,4}\\-[0-9]{2}",
+      "PROCESSO[\\\\/]?SEI\\s*[-:]?\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{3,4}-[0-9]{2}",
+      "PROCESSO[ /]SEI(?:/[A-Z]+)?\\s*[-–]?\\s*[0-9]{5}\\.[0-9]{3,}",
+      "PROCESSO\\/SEI(?:\\/\\w+)?\\s*[-–]\\s*\\d{5}(?:\\.\\d+)?",
+      "PROCESSO[-\\s]?SEI\\s*-\\s*[0-9]{5}\\.[0-9]{6}[-/][0-9]{4}-[0-9]{2}",
+      "PROC\\s*\\.\\s*\\d{5}/\\d{4}-\\d{2}",
+      "PROCESSO\\s*(?:N[°ºo∫]\\s*)?\\d{5}/\\d{4}-\\d{2}",
+      "PROC\\.?\\/?SEI\\s*[-:]\\s*[0-9]{5}\\.[0-9]{6}/[0-9]{3,4}(?:-[0-9]{2})?",
+      "SEI\\s*(?:N[º°§]?\\s*)?\\d{5,}",
+      "PROCESSO(?:\\s+\\w+)*\\s*(?:N[∫º°]?\\s*)?[0-9]{5}\\.[0-9]{6}/[0-9]{2}-[0-9]{2}",
+      "PROCESSO\\s+ASSOCIADO\\s+N∫\\s*\\d{5}\\.\\d{6}/\\d{4}-\\d",
+      "PROC\\.?\\(S\\)\\s*NUM\\.?\\(S\\)\\s*:\\s*[0-9]+\\.[0-9]+/[0-9]+(?:/[0-9]+)?-[0-9]+",
+      "PROCESSO:\\s*\\d{5}\\.\\d{6}/\\d{3}\\s*\\d-\\d{2}(?=\\s)",
+      "PROCESSO:\\s*\\d{5}\\.\\d{5,6}/\\d{4}-\\d{2}",
+      "PROCESSO\\s+SEI\\s*(?:NR\\s*)?[0-9]{5}/[0-9]{4}-[0-9]{2}",
+      "(?:PROC\\.?\\s*SEI|PROCESSO\\s+SEI)\\s*(?:N[°ºo∞]\\s*)?\\d{1,6}/\\d{4}-\\d{1,3}",
+      "PROC\\.?\\s*SEI\\s*(?:N[°º§o]\\s*)?[0-9]{1,6}/[0-9]{4}-[0-9]{2}",
+      "PROCESSO\\s*:?\\s*[0-9]{14}-[0-9]{2}",
+      "PROCESSO\\s+N\\.∫\\s*\\d{5}\\.\\d{5}/\\d{4}-\\d{2}",
+      "PROCESSO\\s*N\\.?\\s*[0-9]+(?:-[0-9]+)?",
+      "PROCESSO\\s*:\\s*\\d{5}\\.\\d{8}/\\d{4}-\\d+",
+      "PROC(?:\\.\\(S\\))?(?:\\s*SEI)?\\s*NUM(?:\\.\\(S\\))?\\s*:\\s*\\d+(?:[./-]\\d+)*-\\d+",
+      "PROCESSO:\\s*\\d{5}\\.\\d{4}/\\d{4}-\\d{2}",
+      "(?i)\\bPROC\\.?\\s+NUM\\.?\\s*:\\s*\\d{5}\\.\\d{5}/\\d{4}-\\d{2}\\b",
+      "PROC\\.?\\s*\\(S\\)?\\s*[:]?\\s*\\d{5,15}(?:[-/]\\d{2,4})?"
+    ],
+    "NUMERO_TRANSF": [
+      "CONTRATO\\s*N∫:\\s*\\d{5}/\\d{4}",
+      "NUM\\.\\s*TRANSFER[ÊE]NCIA\\s*[:\\-]?\\s*[A-Z0-9]+",
+      "(?:CONTRATO\\s*)?N∫:\\s*\\d{1,5}/\\d{4}",
+      "N∫\\.?\\s*[0-9]{5,}/[0-9]{4}",
+      "N∫\\s*[:\\.]?\\s*\\d+/\\d{4}",
+      "N∫\\s*FISCAL:\\s*\\d+",
+      "PGTO\\s+DO\\(S\\)\\s+INSTR\\.\\(S\\)\\s+DE\\s+COBRANCA\\(S\\):\\s*[0-9]{15}",
+      "\\b[0-9]{5,6}/[0-9]{4}\\b",
+      "N[º°]?\\s*DE\\s*TRANSFER[ÊE]NCIA\\s*[A-Za-z0-9]+",
+      "N[°º∫]\\s*[-:]?\\s*[0-9]{1,}",
+      "N[∫º]\\s*N[§º]?\\s*\\d{1,5}/\\d{4}",
+      "PROPOSTA\\s+N[§º°]?\\s*\\d+/\\d{4}(?:-[A-Z]+)?",
+      "NUM\\s*TRANSF(?:\\s*SIAFI)?\\s*[A-Z0-9]+",
+      "N[∫∧]?\\s*DA\\s*LICITACAO\\s*[0-9]+/[0-9]{4}",
+      "N[º°]?\\s*DE\\s*TRANSFER[ÊE]NCIA\\s*[-:]?\\s*[A-Z0-9]+",
+      "N∫\\s*(?:[A-Z]+:\\s*)?\\d{5,}",
+      "NUM\\.?\\s*TRANSF\\.?\\s*: ?[0-9A-Z]+",
+      "TRANSFERE\\.?GOV\\s*[0-9]+/[0-9]{4}",
+      "TRANSFERE\\.GOV\\s*[:]?\\s*\\d{6}/\\d{4}",
+      "N[∫]\\s*(?:[:ø]\\s*)?\\d{1,6}(?:/\\d{4})?",
+      "TRANSFEREGOV\\s*[0-9]+",
+      "\\b\\d{2}[A-Z]{2}\\d{6}\\b",
+      "(?:TRANSFERENCIA|TRANSF\\.|N[∫]?:\\s*)?\\d{4}[A-Z]{2}\\d{6}",
+      "CODIGO\\s+SIORG\\s+N[∫]?\\s*\\??\\s*\\d+",
+      "NUM\\.\\s*TRANSF\\.\\s*[A-Z0-9]+",
+      "NUMERO\\s+DE\\s+TRANSFERENCIA\\s*[-:]\\s*[A-Z0-9]+",
+      "TRANSF\\.\\s*[A-Z0-9]+",
+      "N[∫º]?\\.?\\s*[0-9]{5,}",
+      "(N[^\\s/]*\\d{1,5}/\\d{4})",
+      "TRANSFERENCIA\\s*[:]?\\s*\\d{1,9}",
+      "TRANSFERENCIA\\s+(?:NUMERO\\s+)?[0-9]{5,}",
+      "N∫\\s*DE\\s*SERIE\\s*[0-9]{10}"
+    ],
+    "TED": [
+      "TED\\s*(?:[A-Z]{2,}\\s*)?\\d+",
+      "TED\\s+(?:[A-Z]+\\s+)*?(?:N\\.∫\\s*)?\\d{1,6}[\\/\\-]\\d{4}",
+      "TED\\s*[:]?\\s*\\d{6}",
+      "TED(?:/MEC)?\\s*[0-9]+",
+      "TED\\s*(?:/[A-Z]+)?\\s*[0-9]+(?:[/-][0-9]+)*",
+      "TED\\s*[A-Za-z0-9\\/\\-\\s]+",
+      "TED\\s*[A-Z0-9\\/\\.\\-]+",
+      "TED\\s*[A-Za-z0-9\\-/]+",
+      "TED\\s*[A-Z0-9][A-Z0-9\\-\\/]*",
+      "TED\\s*[A-Za-z0-9]+",
+      "\\bTED\\s+[A-Za-z0-9]+\\b",
+      "TED\\s*[A-Z]+(?:\\s*[0-9]+(?:[\\/\\-][0-9]{2,4})?)?",
+      "TED\\s+[A-Z]+",
+      "TED\\s*(?:\\(\\s*\\d+\\s*\\)|[0-9]+(?:/[0-9]{4})?)",
+      "TED\\s*(?:N[ºo]?\\s*)?\\d{1,6}/\\d{4}",
+      "TED\\s*(?:N\\.?\\s*)?\\d{1,6}",
+      "(TED\\s*[ø:/-]\\s*\\d{1,6})",
+      "TED\\s*(?:[A-Za-z0-9]+\\s*)+(?:/[A-Za-z0-9]+)?",
+      "TED\\s*(?:[A-Z]+(?:/[A-Z]+)*)?\\s*N[∫]?\\s*\\d+",
+      "TED\\.:\\s*\\d+",
+      "TED\\s*(?:N[∞]?\\s*)?[0-9]+/[0-9]{4}",
+      "TED\\s*(?:REF\\.?\\s*[:.]?\\s*)?[0-9]{4}/[0-9]{2}",
+      "TED\\s*(?:[-–]\\s*\\w+)?\\s*,?\\s*[0-9]{1,8}\\s*/\\s*[0-9]{4}",
+      "TED\\s*[-]?\\s*(?:[A-Z\\+\\s]+)?\\s*[0-9]{4,}(?:[\\/\\-][0-9]{4})?",
+      "TED\\s+[A-Za-z0-9/]+(?:\\s*\\(\\d+\\))?",
+      "TED\\s*(?:N[∫]?:?\\s*)?[0-9]{14}-[0-9]{6}",
+      "TED\\s*(?:[A-Z0-9\\s]*[:])?\\s*\\d{2,}(?:[-/]\\d{2,})?",
+      "TED[\\.\\s]*[A-Z0-9]+",
+      "TED\\s*\\(?[A-Z0-9]+\\)?",
+      "TED\\s*N∞[0-9]+-[0-9]+/[0-9]{4}",
+      "TED\\s.*?(?=-PROT|\\s-\\s|\\()",
+      "TED\\s*[A-Z0-9/]+",
+      "\\bTED\\s+[A-Za-z0-9]+(?:/[A-Za-z0-9]+)*\\b",
+      "TED\\s*[A-Z0-9/\\-]+",
+      "TED\\b(?:\\s*[0-9]+(?:[/-][0-9]+)*)?",
+      "\\bTED\\s+[A-Z0-9]+(?:/[A-Z0-9]+)*",
+      "TED\\s+[A-Z0-9\\/\\-]+(?=//)",
+      "TED\\s*[A-Za-z0-9/.-]+",
+      "TED\\s+[A-Za-z0-9./-]+",
+      "TED\\s+(?:[A-Z0-9]+(?:\\s+[A-Z0-9]+)*)(?=\\s*(?:\\(|$))",
+      "TED\\s+(?:[\\w\\.\\s]*\\d+)",
+      "TED\\s*(?:N[º°∫]?\\.?\\s*)?[0-9]{2,}\\.[0-9]{3,}/[0-9]{4}",
+      "TED[^\\s]*",
+      "\\bTED\\s+[A-Z0-9]+/[A-Z0-9]+",
+      "TED[\\w/]*",
+      "TED\\s+[A-Z0-9]+",
+      "TED\\s*[0-9A-Za-z\\/\\-]+",
+      "(?:TED|N∫)\\s*\\d{1,7}/\\d{4}",
+      "TED\\s*[A-Za-z0-9]+(?:[\\/\\-][A-Za-z0-9]+)*",
+      "TED\\s*[A-Z0-9]+(?:/[A-Z0-9]+)*",
+      "TED\\s*[A-Z0-9]+(?:[\\\\/\\\\-][A-Z0-9]+)*",
+      "TED\\s*[A-Z]+(?:/[A-Z]+)?",
+      "TED\\s*[A-Z0-9]+(?:\\s+[A-Z0-9/]+)*",
+      "TED\\s*[A-Za-z0-9/\\-]+",
+      "TED\\s*[A-Z0-9/.-]+"
+    ],
+    "NOTA_CREDITO": [
+      "NOTA\\s+DE\\s+CREDITO\\s*[0-9]+",
+      "(NOTA\\s+DE\\s+CREDITO[-\\s]*\\d+)",
+      "NC\\s*[:]?\\s*\\d+",
+      "N[CD]\\s*\\d{5,9}(?:-\\s*\\d+)?"
+    ]
+  }
+}
